@@ -21,7 +21,7 @@ const ImageGenerator = () => {
                 headers: {
                     "Content-Type" : "application/json",
                     Authorization :
-                    "Bearer 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",
+                    "Bearer sk-None-vsk6VdrYG9E192p8mA6wT3BlbkFJN94pWZG4HeYjVmyANXRz",
                     "User-Agent" : "Chrome",
                 },
                 body : JSON.stringify ({
